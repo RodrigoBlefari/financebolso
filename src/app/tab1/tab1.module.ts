@@ -16,3 +16,4 @@ import { Tab1Page } from './tab1.page';
 })
 export class Tab1PageModule {}
 //teste2
+//testando1
